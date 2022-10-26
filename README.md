@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12157327874)
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+
+### Gaming:
+<div display="flex">
+  <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/epic%20games%20-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/League%20Of%20Legends-%23000000.svg?&style=for-the-badge&logo=riotgames&logoColor=white" />
+  
+</div>
