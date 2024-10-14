@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
-I'm trying to create my Github profile 😄
+I'm trying to create my Github profile 😄 QA Analyst
 
 <!--
 **Blueebz/Blueebz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortnite-%23000000.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
   <img src="https://img.shields.io/badge/League%20Of%20Legends-%23000000.svg?&style=for-the-badge&logo=riotgames&logoColor=white" />
-  <img src="https://img.shields.io/badge/Overwatch-%23000000.svg?&style=for-the-badge&logo=&logoColor=white" />
   
 </div>
